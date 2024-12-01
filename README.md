@@ -29,3 +29,8 @@ The intuitive design of Pop Ninja APK ensures that players can jump right in wit
 Pop Ninja APK is a fantastic option for anyone looking for an action-packed game with stunning graphics and engaging gameplay. Its well-designed features and user-friendly interface make it a must-try for mobile gamers. Whether you're playing for fun or aiming to top the leaderboards, Pop Ninja APK delivers a thrilling experience worth downloading.
 ## Certifications
 [View Google Certification](googlec3570f98536b783e.html)
+[LICENSE](https://github.com/geniekell/PopNinja/blob/main/LICENSE)
+[README.md](https://github.com/geniekell/PopNinja/blob/main/README.md)
+[PopNinja](https://github.com/geniekell/PopNinja)
+
+
